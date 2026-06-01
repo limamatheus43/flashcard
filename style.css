@@ -23,8 +23,13 @@
    body  {
         display: flex;
         min-width:  100vh;
+    
+      }
+
+     main{
+        flex: 1;
     }
 
-    main{
-        flex: 1;
+    .cabecalho-link{
+        color:#fff ;  
     }
